@@ -6,7 +6,7 @@ Cryptocurrencies.
 ## What is used?
 - Python
 - python-telegram-bot
-- API requests
+- API requests (API : api.coingecko.com)
 - Hosted on glitch.com
 
 ## How does it work?
