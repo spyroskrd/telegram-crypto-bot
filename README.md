@@ -31,6 +31,6 @@ the requirements.txt file in order for the program to run
 ## Screenshots: 
 
 <img src="https://github.com/user-attachments/assets/52342e19-46fa-4502-bddf-8c6337c28b56" width="400">
-![IMG_A94B53CC5BA6-1](https://github.com/user-attachments/assets/ffea4545-7cfe-498d-9356-26712f88a838)
-![IMG_754347B2D187-1](https://github.com/user-attachments/assets/bb6b3643-edaf-4bd1-8eaf-ae3228fa2b1d)
+<img src="https://github.com/user-attachments/assets/ffea4545-7cfe-498d-9356-26712f88a838" width="400">
+<img src="https://github.com/user-attachments/assets/bb6b3643-edaf-4bd1-8eaf-ae3228fa2b1d" width="400">
 
